@@ -1,5 +1,5 @@
 Credit Card Fraud Detection 
-**Tabaleu Dashboard**
+**Tabeau Dashboard**
 https://public.tableau.com/app/profile/palak.5572/viz/Creditcardfraud_17752262897350/Dashboard1?publish=yes
 
 <img width="1512" height="982" alt="credit_fraud_dashboard" src="https://github.com/user-attachments/assets/9b142bfe-49ec-4be8-b9e4-fe70b866ec0f" />
