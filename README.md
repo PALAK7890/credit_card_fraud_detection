@@ -43,6 +43,28 @@ KPIs (Total Transactions, Fraud Rate, etc.)
 Time-based and category-based analysis
 Geographical fraud visualization
 Dynamic filters for user interaction
+**Data Dictionary**
+
+| Column Name               | Data Type         | Description                                                              |
+| ------------------------- | ----------------- | ------------------------------------------------------------------------ |
+| **trans_date_trans_time** | Object (Datetime) | Timestamp of the transaction (date and time when transaction occurred).  |
+| **merchant**              | Object            | Name of the merchant where the transaction was made.                     |
+| **category**              | Object            | Category of the transaction (e.g., grocery, shopping, travel).           |
+| **amt**                   | Float             | Transaction amount (in USD or given currency).                           |
+| **gender**                | Object            | Gender of the cardholder (Male/Female).                                  |
+| **city**                  | Object            | City where the transaction occurred.                                     |
+| **state**                 | Object            | State where the transaction occurred.                                    |
+| **zip**                   | Integer           | ZIP code of the transaction location.                                    |
+| **lat**                   | Float             | Latitude of the cardholder’s location.                                   |
+| **long**                  | Float             | Longitude of the cardholder’s location.                                  |
+| **city_pop**              | Integer           | Population of the city where the cardholder resides.                     |
+| **job**                   | Object            | Occupation of the cardholder.                                            |
+| **dob**                   | Object (Date)     | Date of birth of the cardholder.                                         |
+| **unix_time**             | Integer           | Unix timestamp of the transaction (seconds since epoch).                 |
+| **merch_lat**             | Float             | Latitude of the merchant’s location.                                     |
+| **merch_long**            | Float             | Longitude of the merchant’s location.                                    |
+| **is_fraud**              | Integer (0/1)     | Fraud indicator: 0 = Legitimate Transaction, 1 = Fraudulent Transaction. |
+
 
 **Key Insights**
 
