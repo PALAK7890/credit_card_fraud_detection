@@ -43,6 +43,7 @@ KPIs (Total Transactions, Fraud Rate, etc.)
 Time-based and category-based analysis
 Geographical fraud visualization
 Dynamic filters for user interaction
+
 **Data Dictionary**
 
 | Column Name               | Data Type         | Description                                                              |
