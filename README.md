@@ -1,4 +1,5 @@
 Credit Card Fraud Detection 
+
 **Tabeau Dashboard**
 https://public.tableau.com/app/profile/palak.5572/viz/Creditcardfraud_17752262897350/Dashboard1?publish=yes
 
@@ -8,7 +9,7 @@ https://public.tableau.com/app/profile/palak.5572/viz/Creditcardfraud_1775226289
 
 **Overview**
 
-This project presents an end-to-end data analytics solution for detecting and analyzing fraudulent credit card transactions. It combines data preprocessing, exploratory analysis, and interactive visualization to uncover fraud patterns and support decision-making.
+Designed a real-time fraud detection and revenue protection system to identify suspicious financial transactions, minimize false positives, and simulate decision-making for fraud prevention teams.
 
 **Objectives**
 
